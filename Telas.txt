@@ -1,0 +1,13 @@
+Tela inicial:
+- Lista de baixas pendentes c/ botão de dar baixa
+- Campo de avisos de compra
+- Botão p/ Adicionar pedidos - OK
+- Botão p/ visualizar o estoque - OK
+- Botão p/ visualizar o histórico - OK
+
+Tela de pedidos:
+- Nome cliente
+- Nº do pedido
+- Data p/ baixa
+- Lista de itens com área para pesquisa
+- qtnd de itens pedidos
